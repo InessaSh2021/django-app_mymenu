@@ -16,3 +16,5 @@
 файл pasta.html - блюдо макароны (pasta) с пересчетом ингридиентов на количество порций (переменная serrvings)  - https://github.com/InessaSh2021/django-app_mymenu/blob/main/pasta.html
 
 файл buter.html - блюдо бутерброд (buter) с пересчетом ингридиентов на количество порций (переменная serrvings) - https://github.com/InessaSh2021/django-app_mymenu/blob/main/buter.html
+
+Записала работу моего приложения (доступ по ссылке)  https://youtu.be/qWQmAGCzmVc
